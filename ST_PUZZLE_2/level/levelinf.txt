@@ -1,0 +1,44 @@
+1
+21
+./level/level0.0.txt
+W, S, A, D, or direction keys: move. BACKSPACE: revoke. go from 'S' to 'T'. Turn Left or Right when meeting black dot. 
+./level/level0.1.txt
+You shouldn't turn Left or Right when you meet white dot. You need to go through all the dots.
+./level/level0.2.txt
+Let's have a try
+./level/level0.3.txt
+More dots
+./level/level0.4.txt
+And then...
+./level/level0.5.txt
+Is it easy?
+./level/level0.6.txt
+Let's make the map bigger.
+./level/level0.7.txt
+Still easy?
+./level/level0.8.txt
+So many dots..
+./level/level0.9.txt
+You can click the Left Mouse to make some notes.
+./level/level0.10.txt
+You can click the Right Mouse to erase some notes. You can click the 'Clear' Button to erase all notes
+./level/level0.11.txt
+The map is become larger.
+./level/level0.12.txt
+A little more difficult?
+./level/level0.13.txt
+Hope you can solve it.
+./level/level0.14.txt
+It seems to be more difficult. Don't lose heart.
+./level/level0.15.txt
+You probably need some skills. Think twice before your try.
+./level/level0.16.txt
+Never give up!
+./level/level0.17.txt
+Perseverence is Treasure
+./level/level0.18.txt
+More dots, More information.
+./level/level0.19.txt
+Making some notes may help.
+./level/level0.20.txt
+Can you find new ways?
