@@ -2,7 +2,9 @@ ST_PUZZLE 版本2.0
 制作者：Eden,Pjy
 编写工具：VS2017
 
-Eden博客：https://i-m-eden.github.io/
+Eden博客：
+https://i-m-eden.github.io/
+https://www.cnblogs.com/Blog-of-Eden
 
 update:
 使用winapi重新编写了程序。
@@ -10,7 +12,8 @@ update:
 修正了目录中滑动滑轮的卡顿。
 
 玩法：
-点击debug文件夹中的exe运行。
+点击ST_PUZZLE_2文件夹中的exe运行。
+或用vs2017打开sln，参考 源.cpp 开头的注释修改项目属性之后，进行编译运行。
 打开exe，经过一系列动画之后，目录出现（可以用鼠标滚轮滑动）。
 绿色：已解锁，未通过。
 蓝色：已通过。
