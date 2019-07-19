@@ -1,4 +1,4 @@
-1
+2
 21
 ./level/level0.0.txt
 W, S, A, D, or direction keys: move. BACKSPACE: revoke. go from 'S' to 'T'. Turn Left or Right when meeting black dot. 
@@ -42,3 +42,11 @@ More dots, More information.
 Making some notes may help.
 ./level/level0.20.txt
 Can you find new ways?
+4
+./level/level1.0.txt
+Hello World!
+./level/level1.1.txt
+Hello World!
+./level/level1.2.txt
+Hello World!
+./level/level1.3.txt

@@ -187,13 +187,15 @@ void drawrect(int x, int y, int tp) {
 		break;
 	}
 	case 5: {
-		setd(0, 8, gray);
+		setd(0, 10, darkgray);
 		pline(x + gw / 4, y + gh / 4, x + gw - gw / 4, y + gh - gh / 4); pline(x + gw - gw / 4, y + gh / 4, x + gw / 4, y + gh - gh / 4);
+		setd(0, 4, gray);
+		pline(x + gw / 4+2, y + gh / 4+2, x + gw - gw / 4-2, y + gh - gh / 4-2); pline(x + gw - gw / 4-2, y + gh / 4+2, x + gw / 4+2, y + gh - gh / 4-2);
 		break;
 	}
 	case 6: {
 		setf(darkgray); fcircle(x + gw / 2, y + gh / 2, min(gw, gh) / 6);
-		setf(lightgray); fcircle(x + gw / 2, y + gh / 2, min(gw, gh) / 12);
+		setf(gray); fcircle(x + gw / 2, y + gh / 2, min(gw, gh) / 9);
 		break;
 	}
 	}
@@ -556,7 +558,7 @@ int WINAPI WinMain(
 	showwin(nCmdshow);
 
 	//主程序
-	openning();
+	//openning();
 	readinfo();
 	showcatalog();
 }
