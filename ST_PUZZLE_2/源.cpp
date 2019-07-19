@@ -558,7 +558,7 @@ int WINAPI WinMain(
 	showwin(nCmdshow);
 
 	//主程序
-	//openning();
+	openning();
 	readinfo();
 	showcatalog();
 }
